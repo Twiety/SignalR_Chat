@@ -1,0 +1,10 @@
+﻿=========================================================================
+Chat-Applikation
+=========================================================================
+
+Die folgenden NuGet-Pakete sind zu installieren
+     - Install-Package Microsoft.EntityFrameworkCore                (allgemeines EF-Paket)
+     - Install-Package Microsoft.EntityFrameworkCore.SqlServer      (Verwendung eines MS SQL-Servers)
+     - Install - Package Microsoft.EntityFrameworkCore.Design       (um Datenbankmigrationen erstellen zu können)
+
+
